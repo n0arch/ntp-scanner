@@ -1,6 +1,9 @@
 NTP Scanner and 'monlist' checker
 
-INSTALLATION: (debian)-- apt-get install python-pip python-argparse ntp pip install ntplib
+INSTALLATION: (debian)-- 
+apt-get install python-pip python-argparse ntp 
+pip install ntplib
+
 
 takes an IP as input ():
 
