@@ -10,7 +10,7 @@ INSTALLATION: (debian)--
 Usage:
     python ntp-scanner.py [ARGS] HOST
     -f, --file          : specify input file 
-    -h, --host          : specify specific host or subnet(cidr)
+    -t, --target        : specify specific host or subnet(cidr)
     --help              : print this help
     
 Please use safely :|
