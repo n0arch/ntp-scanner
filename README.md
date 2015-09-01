@@ -1,4 +1,4 @@
-# ntp-scanner.py
+# NTP-SCANNER.PY
 
 NTP Scanner and 'monlist' checker
 
@@ -7,8 +7,8 @@ NTP Scanner and 'monlist' checker
 	sudo pip install ntplib iptools;
 
 
-# Usage
-	python ntp-scanner.py [ARGS] HOST
+# USAGE
+	python ntp-scanner.py [ARGS]
 	-f, --file          : specify input file 
 	-t, --target        : specify specific host or subnet(cidr)
 	--help              : print this help
